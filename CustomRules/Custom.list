@@ -1,0 +1,74 @@
+DOMAIN-SUFFIX,crbug.com
+DOMAIN-SUFFIX,sdkman.io //SDKMAN
+# ComputerShare
+DOMAIN-SUFFIX,computershare.com.hk
+DOMAIN-SUFFIX,computershare.com
+DOMAIN-SUFFIX,macitbetter.com
+DOMAIN-SUFFIX,bmtmicro.com
+DOMAIN-SUFFIX,gigabyte.com
+DOMAIN-SUFFIX,bintray.com
+DOMAIN-SUFFIX,unlox.it
+
+DOMAIN-SUFFIX,intellij.net
+DOMAIN-KEYWORD,reddit
+DOMAIN,fcc.lc // MovieDownloader
+DOMAIN,redirecto.link // MovieDownloader
+DOMAIN,fc.lc // MovieDownloader
+DOMAIN-SUFFIX,appwork.org // JDownloader
+DOMAIN-SUFFIX,filecrypt.cc // MovieDownloader
+DOMAIN,openjdk-sources.osci.io
+DOMAIN-SUFFIX,msecnd.net
+DOMAIN-SUFFIX,azul.com
+DOMAIN-KEYWORD,tiktok
+DOMAIN-SUFFIX,goo.gle
+DOMAIN-SUFFIX,zendesk.com
+DOMAIN-SUFFIX,akamaized.net // microsoft-edge
+DOMAIN-SUFFIX,neededapps.com
+DOMAIN-SUFFIX,newrelic.com // Added for webpage: mobile-collector.newrelic.com:443
+DOMAIN-SUFFIX,urbanairship.com // Added for webpage: remote-data.urbanairship.com:443
+DOMAIN-SUFFIX,codeweavers.com
+DOMAIN-SUFFIX,macbartender.com
+PROCESS-NAME,/Applications/Backup and Sync.app/Contents/MacOS/Backup and Sync,Trojan
+DOMAIN,download3.vmware.com
+DOMAIN-SUFFIX,charlesproxy.com
+DOMAIN-SUFFIX,edovia.com
+DOMAIN-SUFFIX,x-mirage.com
+DOMAIN-SUFFIX,amazonaws.com
+DOMAIN-SUFFIX,linodeobjects.com
+DOMAIN-SUFFIX,bjango.com
+DOMAIN-KEYWORD,foxnews // Added for webpage: my.foxnews.com:443
+DOMAIN,downloads.bose.com
+DOMAIN-SUFFIX,apache.org
+DOMAIN-KEYWORD,coursera // Added for webpage: www.coursera.org:443
+DOMAIN,9to5mac.com
+DOMAIN,jitpack.io
+DOMAIN,repo.jfrog.org
+DOMAIN-SUFFIX,obdev.at
+DOMAIN-SUFFIX,tophatch.com
+DOMAIN-SUFFIX,concepts.app
+PROCESS-NAME,/System/Library/Frameworks/ScreenSaver.framework/PlugIns/legacyScreenSaver.appex/Contents/MacOS/legacyScreenSaver
+DOMAIN-KEYWORD,zippyshare,Trojan
+DOMAIN-SUFFIX,eltima.com
+DOMAIN-SUFFIX,geekbench.com
+DOMAIN-SUFFIX,imazing.com
+DOMAIN-KEYWORD,deepl
+DOMAIN-SUFFIX,openvpn.net
+DOMAIN-KEYWORD,xda
+DOMAIN,in.appcenter.ms
+DOMAIN-KEYWORD,gradle // gradle.org
+DOMAIN-KEYWORD,jetbrains
+DOMAIN-SUFFIX,v2ex.com
+DOMAIN-KEYWORD,medium
+DOMAIN-SUFFIX,snahp.it
+DOMAIN-SUFFIX,unsplash.com
+DOMAIN-KEYWORD,trello
+DOMAIN-KEYWORD,atlassian
+DOMAIN-SUFFIX,droidyue.com
+DOMAIN-KEYWORD,sketch
+DOMAIN-KEYWORD,asus
+DOMAIN-SUFFIX,corsair.com
+DOMAIN-SUFFIX,parallels.com
+DOMAIN-SUFFIX,togetter.com 
+# Surge
+DOMAIN-SUFFIX,nssurge.com
+# 
