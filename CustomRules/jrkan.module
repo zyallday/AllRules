@@ -1,11 +1,11 @@
-#!name=URL Optimization
-#!desc=通用的 URL 优化，包含 Google 搜索及地图、微博短链接白名单、AbeamTV 区域限制等体验增强
+#!name=Jrkan Modules
+#!desc=Jrkan Redirect Http to Https
 
 [URL Rewrite]
 
 # Redirect HTTP to HTTPS
-^(http|https):\/\/(www.)?jrkan\.com\/ https://jrkan.com/ 302
-^(http|https):\/\/(play.)?sportstream365\.com\/ https://play.sportstream365.com/ 302
+^(http):\/\/(www.)?jrkan\.com\/ https://jrkan.com/ 302
+^(http):\/\/(play.)?sportstream365\.com\/ https://play.sportstream365.com/ 302
 
 
 [MITM]
