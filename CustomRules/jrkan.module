@@ -1,0 +1,12 @@
+#!name=URL Optimization
+#!desc=通用的 URL 优化，包含 Google 搜索及地图、微博短链接白名单、AbeamTV 区域限制等体验增强
+
+[URL Rewrite]
+
+# Redirect HTTP to HTTPS
+^(http|https):\/\/(www.)?jrkan\.com\/ https://jrkan.com/ 302
+^(http|https):\/\/(play.)?sportstream365\.com\/ https://play.sportstream365.com/ 302
+
+
+[MITM]
+hostname = %INSERT% jrkan.com, play.sportstream*.com, *.jrkan.com
