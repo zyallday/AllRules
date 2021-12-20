@@ -1,0 +1,7 @@
+#!name=MuseOps Host
+#!desc=MuseOps Host
+#!system=mac
+
+[Host]
+muses-material-gateway-dev.online.qiyi.qae = 127.0.0.1
+creation-ops-test.qiyi.domain = 127.0.0.1
