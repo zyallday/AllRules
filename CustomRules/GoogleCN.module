@@ -1,0 +1,12 @@
+#!name=Google.cn
+#!desc=Google.cn redirect to Google.com
+
+[URL Rewrite]
+
+# Redirect google.cn to google.com
+^(http|https):\/\/(www.)?g\.cn https:\/\/www.google.com 302
+^(http|https):\/\/(www.)?google\.cn https:\/\/www.google.com 302
+
+
+[MITM]
+hostname = %APPEND% *.google.cn, g.cn
